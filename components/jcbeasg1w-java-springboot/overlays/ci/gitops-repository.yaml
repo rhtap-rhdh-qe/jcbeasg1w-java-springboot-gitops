@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jcbeasg1w-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jcbeasg1w-java-springboot-gitops
